@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:25
+-keep class com.myjsoup.MainActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:13
+-keepclassmembers class * { *** doo(...); }
+
+# onClick res/layout/main.xml #generated:20
+-keepclassmembers class * { *** las(...); }
+
